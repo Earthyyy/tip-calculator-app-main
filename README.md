@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/tip-calculator-app-solution-9DXIRyvwVa)
+- [Live Site URL](https://earthyy-tip-calculator.netlify.app/)
 
 ## My process
 
